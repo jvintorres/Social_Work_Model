@@ -1,6 +1,6 @@
 # Diabetes Health Prediction
 
-An analytical project predicting diabetes health outcomes using regression models on the CDC Diabetes Health Indicators dataset. This project explores relationships between health indicators and diabetes risk using robust machine learning methods.
+A supervised machine learning project to predict diabetes health outcomes using regression models (ForestRegression in particular) on the CDC Diabetes Health Indicators dataset. This project explores relationships between health indicators and diabetes risk using robust machine learning methods.
 
 ---
 
