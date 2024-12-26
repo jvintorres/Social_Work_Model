@@ -6,14 +6,14 @@ A supervised machine learning project to predict mental health outcomes using re
 
 ## Table of Contents
 
-About the Project
-Getting Started
-Usage
-Features
-Results
-Contributing
-License
-Acknowledgments
+- About the Project
+- Getting Started
+- Usage
+- Features
+- Results
+- Contributing
+- License
+- Acknowledgments
 
 ---
 
