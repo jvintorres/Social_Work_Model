@@ -1,6 +1,6 @@
 # Diabetes Health Prediction
 
-A supervised machine learning project to predict diabetes health outcomes using regression models (i.e. ForestRegression) on the CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health using robust machine learning methods.
+A supervised machine learning project to predict mental health outcomes using regression models (i.e. ForestRegression) on the CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health using robust machine learning methods.
 
 ---
 
