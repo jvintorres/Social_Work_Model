@@ -38,13 +38,13 @@ Dependencies listed in requirements.txt
 
 ## Installation
 
-# Clone the repo.
+## Clone the repo.
 git clone https://github.com/yourusername/diabetes_health_prediction.git
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd diabetes_health_prediction
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
 ## Features
