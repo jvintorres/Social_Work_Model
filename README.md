@@ -3,7 +3,7 @@
 A supervised machine learning project to predict mental health outcomes using regression models (i.e. ForestRegression) on a CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health using robust machine learning methods.
 
 
-![Supervised Machine Learning PNG](Supervised ML.png)
+![Supervised Machine Learning PNG](Supervised_ML.png)
 ---
 
 ## Table of Contents
