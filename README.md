@@ -1,4 +1,4 @@
-# Mental Health Predictive Model
+# Socal Work[er] Model
 
 A supervised machine learning project to predict mental health outcomes using regression models (ForestRegression) on a CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health using robust machine learning methods.
 
@@ -100,4 +100,4 @@ The Scikit-learn community for powerful machine learning tools.
 Python's Pandas, NumPy, and Matplotlib libraries for data analysis and visualization.
 
 
-Supervised ML.pdf 
+Supervised_ML.pdf 
