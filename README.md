@@ -99,3 +99,5 @@ The CDC for providing the Diabetes Health Indicators dataset.
 The Scikit-learn community for powerful machine learning tools.
 Python's Pandas, NumPy, and Matplotlib libraries for data analysis and visualization.
 
+
+Supervised ML.pdf 
