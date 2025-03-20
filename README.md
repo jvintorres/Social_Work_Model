@@ -101,3 +101,5 @@ Python's Pandas, NumPy, and Matplotlib libraries for data analysis and visualiza
 
 
 Supervised_ML.pdf 
+
+📄 [View or Download the PDF Report](https://github.com/jvintorres/Social_Work_Model/Supervised_ML.pdf)
