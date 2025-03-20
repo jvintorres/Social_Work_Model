@@ -5,6 +5,9 @@ A supervised machine learning project to predict mental health outcomes using re
 
 ---
 
+![Social_Work_Model](image.png)
+
+
 ## Table of Contents
 
 - About the Project
@@ -100,6 +103,3 @@ The Scikit-learn community for powerful machine learning tools.
 Python's Pandas, NumPy, and Matplotlib libraries for data analysis and visualization.
 
 
-Supervised_ML.pdf 
-
-📄 [View or Download the PDF Report](https://github.com/jvintorres/Social_Work_Model/Supervised_ML.pdf)
