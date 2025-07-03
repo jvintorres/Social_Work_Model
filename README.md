@@ -1,6 +1,6 @@
 # Socal Work[er] Model
 
-A supervised machine learning project to predict mental health outcomes using regression models (ForestRegression) on a CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health using robust machine learning methods.
+A supervised machine learning project to predict poor mental health outcomes using regression models (i.e. ForestRegression) on a CDC Diabetes Health Indicators dataset. This project explores relationships between diabetes health indicators and poor mental health.
 
 
 ---
@@ -12,7 +12,6 @@ A supervised machine learning project to predict mental health outcomes using re
 
 - About the Project
 - Getting Started
-- Usage
 - Features
 - Results
 - Contributing
@@ -23,7 +22,7 @@ A supervised machine learning project to predict mental health outcomes using re
 
 ## About the Project
 
-A supervised machine learning model to predict mental health outcomes. By applying a regression model, we can assess the impact of various social determinants on poor mental health days. 
+A supervised machine learning model to predict mental health outcomes. By applying a regression model, we can assess the impact of various social determinants on the number of poor mental health days. 
 
 Key objectives include:
 
@@ -53,15 +52,15 @@ pip install -r requirements.txt
 
 ## Features
 
-✔️ Regression Analysis: Implements multiple regression models, including Random Forest and Ridge Regression, to predict diabetes outcomes.
+Regression Analysis: Implements multiple regression models, including Random Forest and Ridge Regression, to predict diabetes outcomes.
 
-✔️ Comprehensive Evaluation Metrics: Provides R², Adjusted R², MAE, RMSE, and ROC AUC to assess model performance.
+Comprehensive Evaluation Metrics: Provides R², Adjusted R², MAE, RMSE, and ROC AUC to assess model performance.
 
-✔️ Multicollinearity Checks: Identifies and manages feature multicollinearity for improved model stability.
+Multicollinearity Checks: Identifies and manages feature multicollinearity for improved model stability.
 
-✔️ Scalable Feature Engineering: Includes a composite Health Burden Score for more robust predictions.
+Scalable Feature Engineering: Includes a composite Health Burden Score for more robust predictions.
 
-✔️ Extensible Codebase: Designed to integrate additional datasets or predictive models easily.
+Extensible Codebase: Designed to integrate additional datasets or predictive models easily.
 
 ---
 
